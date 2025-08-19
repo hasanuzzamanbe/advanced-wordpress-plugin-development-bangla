@@ -15,7 +15,7 @@
 *   প্রয়োজনীয় টুলস ও পরিবেশ তৈরি
 
 
-অধ্যায় ১: [মজবুত ভিত্তি স্থাপন (A Solid Foundation)](./অধ্যায়%20১:%20মজবুত%20ভিত্তি%20স্থাপন%20(A%20Solid%20Foundation).md)
+অধ্যায় ১: [মজবুত ভিত্তি স্থাপন (A Solid Foundation)](/chapter_1_Solid%20Foundation.md)
 
 *   ১.১ কেন সাধারণ ফাংশন-ভিত্তিক প্লাগিন যথেষ্ট নয়?
 
@@ -26,7 +26,7 @@
 *   ১.৪ অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং (OOP) এর সঠিক প্রয়োগ ও প্লাগিন আর্কিটেকচার
 
 
-অধ্যায় ২: [হুকস (Hooks) এর গভীরে (A Deep Dive into Hooks)](./অধ্যায়%202:%20হুকস%20(Hooks)%20এর%20গভীরে%20(A%20Deep%20Dive%20into%20Hooks).md)
+অধ্যায় ২: [হুকস (Hooks) এর গভীরে (A Deep Dive into Hooks)](./chapter_2_A_Deep_Dive_into_Hooks.md)
 
 *   ২.১ প্রায়োরিটি (Priority) এবং আর্গুমেন্ট (Arguments) এর ব্যবহার
 
@@ -37,7 +37,7 @@
 *   ২.৪ do\_action() এবং apply\_filters() এর বাস্তব উদাহরণ
 
 
-অধ্যায় ৩: [ডেটাবেস ম্যানেজমেন্ট (Database Management)](./অধ্যায়%203:%20ডেটাবেস%20ম্যানেজমেন্ট%20(Database%20Management).md)
+অধ্যায় ৩: [ডেটাবেস ম্যানেজমেন্ট (Database Management)](./chapter_3_Database_Management.md)
 
 *   ৩.১ $wpdb এর নিরাপদ ব্যবহার এবং $wpdb->prepare()
 
@@ -48,7 +48,7 @@
 *   ৩.৪ CRUD অপারেশন (Create, Read, Update, Delete)
 
 
-অধ্যায় ৪: [অ্যাডভান্সড API-এর ব্যবহার (Using Advanced APIs)](./অধ্যায়%204:%20অ্যাডভান্সড%20API-এর%20ব্যবহার%20(Using%20Advanced%20APIs).md)
+অধ্যায় ৪: [অ্যাডভান্সড API-এর ব্যবহার (Using Advanced APIs)](./chapter_4_Using_Advanced_APIs.md)
 
 *   ৪.১ Settings API: পেশাদার অপশন পেজ তৈরি
 
@@ -57,7 +57,7 @@
 *   ৪.৩ Filesystem API: নিরাপদে ফাইল ম্যানেজ করা
 
 
-অধ্যায় ৫: [গুটেনবার্গ ব্লক ডেভেলপমেন্ট (Gutenberg Block Development)](./অধ্যায়%205:%20গুটেনবার্গ%20ব্লক%20ডেভেলপমেন্ট%20(Gutenberg%20Block%20Development).md)
+অধ্যায় ৫: [গুটেনবার্গ ব্লক ডেভেলপমেন্ট (Gutenberg Block Development)](./chapter_5_Gutenberg_Block_Development.md)
 
 *   ৫.১ ব্লক ডেভেলপমেন্টের পরিবেশ তৈরি (@wordpress/create-block)
 
@@ -68,7 +68,7 @@
 *   ৫.৪ ডাইনামিক ব্লক (সার্ভার-সাইড রেন্ডারিং)
 
 
-অধ্যায় ৬: [নিরাপত্তা (Security)](./অধ্যায়%206:%20নিরাপত্তা%20(Security).md)
+অধ্যায় ৬: [নিরাপত্তা (Security)](./chapter_6_Security.md)
 
 *   ৬.১ ওয়ার্ডপ্রেস নিরাপত্তার তিনটি গোল্ডেন রুল
 
@@ -81,7 +81,7 @@
 *   ৬.৫ ব্যবহারকারীর অনুমতি যাচাই (Roles and Capabilities)
 
 
-অধ্যায় ৭: [পারফরম্যান্স অপটিমাইজেশন (Performance Optimization)](./অধ্যায়%207:%20পারফরম্যান্স%20অপটিমাইজেশন%20(Performance%20Optimization).md)
+অধ্যায় ৭: [পারফরম্যান্স অপটিমাইজেশন (Performance Optimization)](./chapter_7_Performance_Optimization.md)
 
 *   ৭.১ অ্যাসেট (CSS/JS) লোডিং অপটিমাইজ করা
 
@@ -92,7 +92,7 @@
 *   ৭.৪ ডেটাবেস কোয়েরি অপটিমাইজেশন
 
 
-অধ্যায় ৮: [আন্তর্জাতিকীকরণ (Internationalization - i18n)](./অধ্যায়%২০৮:%20আন্তর্জাতিকীকরণ%20(Internationalization%20-%20i18n).md)
+অধ্যায় ৮: [আন্তর্জাতিকীকরণ (Internationalization - i18n)](./chapter_8_Internationalization.md)
 
 *   ৮.১ প্লাগিনকে অনুবাদযোগ্য করা (load\_plugin\_textdomain)
 
@@ -101,7 +101,7 @@
 *   ৮.৩ জাভাস্ক্রিপ্টে অনুবাদ (wp\_localize\_script)
 
 
-অধ্যায় ৯: [আধুনিক ডেভেলপমেন্ট ওয়ার্কফ্লো (Modern Development Workflow)](./অধ্যায়%২০৯:%20আধুনিক%20ডেভেলপমেন্ট%20ওয়ার্কফ্লো%20(Modern%20Development%20Workflow).md)
+অধ্যায় ৯: [আধুনিক ডেভেলপমেন্ট ওয়ার্কফ্লো (Modern Development Workflow)](./chapter_9_Modern_Development_Workflow.md)
 
 *   ৯.১ WP-CLI এর কার্যকর ব্যবহার
 
@@ -110,7 +110,7 @@
 *   ৯.৩ WordPress.org রিপোজিটরিতে প্লাগিন ডিপ্লয়মেন্ট (SVN)
 
 
-অধ্যায় ১০: [প্লাগিন থেকে আয় (Monetization)](./অধ্যায়%2010:%20প্লাগিন%20থেকে%20আয়%20(Monetization).md)
+অধ্যায় ১০: [প্লাগিন থেকে আয় (Monetization)](./chapter_10_Monetization.md)
 
 *   ১০.১ ফ্রিমিয়াম (Freemium) মডেলের কৌশল
 
