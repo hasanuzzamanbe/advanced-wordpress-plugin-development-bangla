@@ -15,7 +15,7 @@
 *   প্রয়োজনীয় টুলস ও পরিবেশ তৈরি
 
 
-অধ্যায় ১: [মজবুত ভিত্তি স্থাপন (A Solid Foundation)](/chapter_1_Solid%20Foundation.md)
+অধ্যায় ১: [মজবুত ভিত্তি স্থাপন (A Solid Foundation)](/chapter_1_Solid_Foundation.md)
 
 *   ১.১ কেন সাধারণ ফাংশন-ভিত্তিক প্লাগিন যথেষ্ট নয়?
 
@@ -48,7 +48,7 @@
 *   ৩.৪ CRUD অপারেশন (Create, Read, Update, Delete)
 
 
-অধ্যায় ৪: [অ্যাডভান্সড API-এর ব্যবহার (Using Advanced APIs)](./chapter_4_Using_Advanced_APIs.md)
+অধ্যায় ৪: [অ্যাডভান্সড API-এর ব্যবহার (Using Advanced APIs)](./chapter_4_Using_Advanced.md)
 
 *   ৪.১ Settings API: পেশাদার অপশন পেজ তৈরি
 
@@ -92,7 +92,7 @@
 *   ৭.৪ ডেটাবেস কোয়েরি অপটিমাইজেশন
 
 
-অধ্যায় ৮: [আন্তর্জাতিকীকরণ (Internationalization - i18n)](./chapter_8_Internationalization.md)
+অধ্যায় ৮: [আন্তর্জাতিকীকরণ (Internationalization - i18n)](./chapter_8_Internationalization_i18n.md)
 
 *   ৮.১ প্লাগিনকে অনুবাদযোগ্য করা (load\_plugin\_textdomain)
 
@@ -101,7 +101,7 @@
 *   ৮.৩ জাভাস্ক্রিপ্টে অনুবাদ (wp\_localize\_script)
 
 
-অধ্যায় ৯: [আধুনিক ডেভেলপমেন্ট ওয়ার্কফ্লো (Modern Development Workflow)](./chapter_9_Modern_Development_Workflow.md)
+অধ্যায় ৯: [আধুনিক ডেভেলপমেন্ট ওয়ার্কফ্লো (Modern Development Workflow)](./chapter_9_Development_Workflow.md)
 
 *   ৯.১ WP-CLI এর কার্যকর ব্যবহার
 
