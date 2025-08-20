@@ -4,7 +4,7 @@
 <!-- ...existing code... -->
 
 <!-- Stylish link to read the book -->
-[📖 START READING](https://hasanuzzamanbe.github.io/advanced-wordpress-plugin-development-bangla/introduction.html)
+[📖 START READING](https://hasanuzzamanbe.github.io/advanced-wordpress-plugin-development-bangla/chapters/introduction.html)
 
 
 
