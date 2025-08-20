@@ -1,4 +1,4 @@
-<img src="./cover.png" width="450px" alt="অ্যাডভান্সড ওয়ার্ডপ্রেস প্লাগিন ডেভেলপমেন্ট" />
+<img src="./chapters/cover.png" width="450px" alt="অ্যাডভান্সড ওয়ার্ডপ্রেস প্লাগিন ডেভেলপমেন্ট" />
 
 
 <!-- ...existing code... -->
