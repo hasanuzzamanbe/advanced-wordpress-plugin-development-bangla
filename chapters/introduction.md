@@ -18,7 +18,7 @@ nav_order: 0
 
 *   এই বই থেকে কী কী শিখবেন
 
-*   প্রয়োজনীয় টুলস ও পরিবেশ তৈরি
+*   প্রয়োজনীয় টুলস ও এনভাইরনমেন্ট তৈরি
 
 
 অধ্যায় ১: [মজবুত ভিত্তি স্থাপন (A Solid Foundation)](/chapter_1_Solid_Foundation.md)
@@ -45,7 +45,7 @@ nav_order: 0
 
 অধ্যায় ৩: [ডেটাবেস ম্যানেজমেন্ট (Database Management)](./chapter_3_Database_Management.md)
 
-*   ৩.১ $wpdb এর নিরাপদ ব্যবহার এবং $wpdb->prepare()
+*   ৩.১ $wpdb এর সিকিউর ব্যবহার এবং $wpdb->prepare()
 
 *   ৩.২ কাস্টম ডেটাবেস টেবিল: কখন এবং কেন?
 
@@ -60,12 +60,12 @@ nav_order: 0
 
 *   ৪.২ REST API: কাস্টম এন্ডপয়েন্ট তৈরি এবং ব্যবহার
 
-*   ৪.৩ Filesystem API: নিরাপদে ফাইল ম্যানেজ করা
+*   ৪.৩ Filesystem API: সিকিউরে ফাইল ম্যানেজ করা
 
 
 অধ্যায় ৫: [গুটেনবার্গ ব্লক ডেভেলপমেন্ট (Gutenberg Block Development)](./chapter_5_Gutenberg_Block_Development.md)
 
-*   ৫.১ ব্লক ডেভেলপমেন্টের পরিবেশ তৈরি (@wordpress/create-block)
+*   ৫.১ ব্লক ডেভেলপমেন্টের এনভাইরনমেন্ট তৈরি (@wordpress/create-block)
 
 *   ৫.২ একটি ব্লকের গঠন: block.json, edit.js এবং save.js
 
